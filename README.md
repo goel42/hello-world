@@ -1,2 +1,2 @@
 # hello-world
-first hands-on with github
+now i am starting to get the hang of it
